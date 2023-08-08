@@ -1,0 +1,11 @@
+:root {
+  --el-text-color-secondary: #1b1b1b !important;
+  --el-text-color-regular: #222222 !important;
+  --el-color-primary: #2678ff !important;
+}
+
+.el-dialog__body,
+.el-dialog__footer {
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
+}

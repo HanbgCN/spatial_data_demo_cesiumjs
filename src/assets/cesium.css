@@ -1,0 +1,6 @@
+.cesium-viewer-infoBoxContainer {
+  position: fixed;
+  width: inherit;
+  top: 0;
+  right: 0;
+}
